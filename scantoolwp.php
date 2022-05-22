@@ -125,7 +125,7 @@ function scan_tool_wp_settings_subpage_about_markup()
 		
 		<h3><b> <?php esc_html_e('Contenido About:'); ?></b></h3>
 		<p><?php echo ('<b>Nombre del Autor del plugin:</b> Ivan Hernandez '); ?></p>
-		<a href="https://www.facebook.com/nativapp" style="text-decoration: none;" target="_blank"><span class="dashicons dashicons-facebook"></span></a>
+		<a href="https://www.facebook.com/nativapps/" style="text-decoration: none;" target="_blank"><span class="dashicons dashicons-facebook"></span></a>
 
 		<a href="https://www.instagram.com/nativapps/" style="text-decoration: none;" target="_blank"><span class="dashicons dashicons-instagram"></span></a>
 
